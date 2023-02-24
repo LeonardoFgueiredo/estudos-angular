@@ -8,3 +8,19 @@ body{
     flex-direction: column;
     align-items: center;
 }
+
+button{
+    border: none;
+    color: aliceblue;
+    background-color: #44475a;
+    margin-bottom: 5px;
+    padding: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: .8s;
+
+}
+button:hover{
+    background-color: #54586d;
+    transition: .8s;
+}
