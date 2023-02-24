@@ -7,6 +7,7 @@ import { ListService } from 'src/app/services/list.service';
   templateUrl: './list-render.component.html',
   styleUrls: ['./list-render.component.css']
 })
+
 export class ListRenderComponent {
   constructor(private listService: ListService){}
 

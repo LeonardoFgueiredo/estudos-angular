@@ -32,3 +32,23 @@ input{
     border-radius: 8px;
     margin-right: 5px;
 }
+
+nav{
+    background-color: #44475a;
+    color: aliceblue;
+    padding: 10px;
+    font-size: 20px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+a:hover{
+    color: #ff79c6;
+}
