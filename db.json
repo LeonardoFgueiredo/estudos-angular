@@ -1,9 +1,28 @@
 {
-    "animals": [
-        { "id": 1, "name": "Turca", "type": "Cachorro", "age": 6},
-        { "id": 2, "name": "Tom", "type": "Gato", "age": 7},
-        { "id": 3, "name": "Frida", "type": "Cachorro", "age": 4},
-        { "id": 4, "name": "Jão", "type": "Cavalo", "age": 6},
-        { "id": 5, "name": "Zequinha", "type": "Passarinho", "age": 2}
-    ]
+  "animals": [
+    {
+      "id": 1,
+      "name": "Turca",
+      "type": "Cachorro",
+      "age": 6
+    },
+    {
+      "id": 2,
+      "name": "Tom",
+      "type": "Gato",
+      "age": 7
+    },
+    {
+      "id": 3,
+      "name": "Frida",
+      "type": "Cachorro",
+      "age": 4
+    },
+    {
+      "id": 5,
+      "name": "Zequinha",
+      "type": "Passarinho",
+      "age": 2
+    }
+  ]
 }
